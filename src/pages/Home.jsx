@@ -41,7 +41,12 @@ export default function Home() {
             <div className="hero-logo-halo" />
             <div className="hero-logo-orbit hero-logo-orbit-a" />
             <div className="hero-logo-orbit hero-logo-orbit-b" />
-            <img src={logo} alt="Oryntal Logo" className="hero-logo hero-logo-large logo-3d" />
+           <img 
+  src={logo}  
+  alt="Oryntal Logo" 
+    className="hero-logo hero-logo-large logo-3d"
+  style={{ width: '600px', height: '600px' }}
+/>
           </div>
 
           <div className="hero-content">

@@ -83,8 +83,8 @@
 .orbit-ring-3 { width: 48%; height: 48%; animation-duration: 8s; border-color: rgba(201, 168, 76, 0.25); }
 
 .orbit-center {
-  width: 140px;
-  height: 140px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   background: transparent;
   border: none;
@@ -96,10 +96,10 @@
 }
 
 .orbit-logo {
-  width: 86px;
-  height: 86px;
+  width: 220px;
+  height: 220px;
   object-fit: contain;
-  filter: drop-shadow(0 0 16px rgba(201, 168, 76, 0.35));
+  filter: drop-shadow(0 0 20px rgba(201, 168, 76, 0.45));
 }
 
 .orbit-chip {
